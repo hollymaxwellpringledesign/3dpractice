@@ -1,8 +1,3 @@
-<script> 
-
-#define n 20
-
-
 		precision mediump float;
 		precision mediump int;
 
@@ -3905,6 +3900,4 @@ vec2 equirectUv( in vec3 dir ) {
 
 			}
 		
-        
-	</script>
-  
+      
